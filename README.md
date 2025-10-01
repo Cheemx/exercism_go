@@ -1,0 +1,1 @@
+Heyooo, I(actually a bot from Exercism) try to push my solutions that I implement on [exercism](https://exercism.org/tracks/go) in this repository check out if you want!
